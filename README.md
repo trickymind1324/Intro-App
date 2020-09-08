@@ -16,4 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
+
+### Full screen display
+
 <img src="images/intro.png" width="800" height="800"/>
+
+### Responsive Layout
+
+<img src="images/intro1.png" width="800" height="800"/>
