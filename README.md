@@ -23,4 +23,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Responsive Layout
 
-<img src="images/intro1.png" width="800" height="800"/>
+<img src="images/intro1.png" width="900" height="800"/>
