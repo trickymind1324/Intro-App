@@ -1,6 +1,6 @@
-# intro
+# Intro App
 
-A new Flutter project.
+My first flutter project.
 
 ## Getting Started
 
